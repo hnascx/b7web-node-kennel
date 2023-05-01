@@ -1,11 +1,12 @@
 # nodets-canil
-Projeto feito no módulo do curso Node + Typescript
 
-### Pré-requisitos globais:
+Application to simulate the control of a kennel made with Typescript and Node.js.
+
+### Global prerequisites
 `npm i -g nodemon typescript ts-node`
 
-### Instalação
+### Installation
 `npm install`
 
-### Para rodar o projeto
+### Running
 `npm run start-dev`
