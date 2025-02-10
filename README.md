@@ -1,4 +1,4 @@
-# nodets-canil
+# nodets-kennel
 
 Application to simulate the control of a kennel made with Typescript and Node.js.
 
